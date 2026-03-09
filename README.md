@@ -14,15 +14,15 @@ git clone https://github.com/WesanChien/Android_Socket_Chat.git
 
 # 功能說明
 
-Client / Server Socket 連線
+* Client / Server Socket 連線
 
-即時文字訊息傳送
+* 即時文字訊息傳送
 
-聊天紀錄顯示
+* 聊天紀錄顯示
 
-使用者名稱設定
+* 使用者名稱設定
 
-連線與中斷連線控制
+* 連線與中斷連線控制
 
 # 備註
 Client 與 Server 需位於同一區域網路
